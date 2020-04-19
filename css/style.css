@@ -15,18 +15,18 @@ html {
 	margin: 0;
 	padding: 0;
 }
-/* .navbar-brand {
-	margin-bottom: 0.5rem;
-} */
 
 ul.nav a:hover {
 	color: #129d96 !important;
 }
 
-/* .myLogo {
-	width: 85%;
-	height: 85%;
-} */
+.myLogo {
+	width: 250px;
+}
+
+.logoCV {
+	width: 70px;
+}
 
 .icon-bar {
 	background-color: white;
@@ -82,16 +82,24 @@ p {
 .section {
 	font-size: 18px;
 	text-align: center;
+	justify-content: center;
+	text-align: center;
 	padding: 50px 80px;
 }
 
 .section-light {
 	background-color: #f4f4f4;
+	text-align: center;
+	justify-content: center;
+	text-align: center;
 	color: #666;
 }
 
 .section-dark {
 	background-color: #282e34;
+	text-align: center;
+	justify-content: center;
+	text-align: center;
 	color: #ddd;
 }
 
@@ -122,6 +130,16 @@ p {
 	list-style: none;
 	font-size: 2rem;
 	margin-bottom: 1.5rem;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+ul {
+	list-style: none;
+	font-size: 2rem;
+	margin-bottom: 1.5rem;
+	align-items: center;
 	justify-content: center;
 	text-align: center;
 }
