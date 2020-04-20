@@ -9,6 +9,9 @@ html {
 	color: #666;
 }
 
+.country img {
+	width: 30px;
+}
 .navbar {
 	background-color: #129d96;
 	color: white;
